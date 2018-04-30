@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/muenzpraeger/salesforce-einstein-platform-apex.svg?branch=master)](https://travis-ci.org/muenzpraeger/salesforce-einstein-platform-apex)
 
+Copied from https://github.com/muenzpraeger/salesforce-einstein-platform-apex
+
+# Sample Datasets to play with
+[Comic Book Images](https://drive.google.com/open?id=1AI0pJZMGPYEhedBB-3bURWwDQ6ERZqST)
+
 # salesforce-einstein-platform-apex
 
 This repository showcases how to use the [Salesforce Einstein Platform API](https://metamind.readme.io/) using an Apex based wrapper.
